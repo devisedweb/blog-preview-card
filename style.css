@@ -1,11 +1,3 @@
-/* .attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-} */
-
 /* Global Styles */
 * {
   box-sizing: border-box;
@@ -96,9 +88,6 @@ body {
   .card {
     width: 24rem;
     height: 32.625rem;
-    /* height: auto; */
-    /* min-height: 32rem; */
-    /* padding: 1.5rem 1.5rem 2rem 1.5rem; */
   }
 
   .category,
@@ -119,3 +108,13 @@ body {
     font-size: 1rem;
   }
 }
+
+/* Attribution Styles */
+
+/* .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+} */
