@@ -11,7 +11,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -42,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Muhammad Hani] (https://www.frontendmentor.io/profile/devisedweb)
-- Github - [Muhammad Hani] (https://github.com/devisedweb)
-- Twitter - [@devised_web](https://x.com/devised_web)
+- Frontend Mentor - https://www.frontendmentor.io/profile/devisedweb
+- Github - https://github.com/devisedweb
+- Twitter - https://x.com/devised_web
