@@ -34,6 +34,11 @@ body {
 }
 
 /* Content Styles */
+span,
+time {
+  display: block;
+}
+
 .category {
   width: auto;
   display: inline-block;
@@ -41,6 +46,7 @@ body {
   font-size: 0.75rem;
   background-color: #f4d04e;
   margin: 0;
+  margin-bottom: 0.75rem;
   padding: 0.25rem 0.75rem;
   border-radius: 4px;
   line-height: 150%;
@@ -81,6 +87,7 @@ body {
 .author-name {
   font-size: 0.875rem;
   font-weight: bolder;
+  font-style: normal;
 }
 
 /* Desktop Styles */
