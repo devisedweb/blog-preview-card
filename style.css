@@ -34,11 +34,6 @@ body {
 }
 
 /* Content Styles */
-span,
-time {
-  display: block;
-}
-
 .category {
   width: auto;
   display: inline-block;
@@ -53,6 +48,7 @@ time {
 }
 
 .publish-date {
+  display: block;
   font-size: 0.75rem;
   font-weight: 500;
   line-height: 150%;
